@@ -11,10 +11,6 @@ from skimage.morphology import skeletonize
 from skimage.graph import route_through_array
 from skimage.filters import threshold_otsu
 
-import sys
-sys.stdout.reconfigure(encoding='utf-8')
-
-
 from model import UNet
 
 # ---------- Config ----------
@@ -23,7 +19,7 @@ CKPT_PATHS = ["ckpt_unet_allself_bs8_s42.pth", "ckpt_unet_allself_bs8_s7.pth"]  
 INFER_SIZE = (512, 512)
 BASE_THRESH = 0.08
 MIN_AREA = 80
-OUTPUT_DIR = "output-new"
+OUTPUT_DIR = "output-K"
 CONNECT_MAX_DIST = 40
 CONNECT_MIN_PROB = 0.15
 
@@ -331,7 +327,7 @@ def predict_and_save(models, image_path, save_dir=OUTPUT_DIR,
 
 # ---------- Main ----------
 if __name__ == "__main__":
-    test_dir = "test1"
+    test_dir = "test K"
     exts = [".jpg", ".jpeg", ".png"]
 
     models = load_models(CKPT_PATHS)
