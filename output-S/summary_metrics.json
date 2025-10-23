@@ -1,0 +1,1066 @@
+[
+  {
+    "image": "Sulphur_1",
+    "total_vein_pixels": 35486,
+    "skeleton_length": 3001,
+    "avg_vein_width": 11.82,
+    "num_vein_segments": 3,
+    "vein_density": 0.1354
+  },
+  {
+    "image": "Sulphur_10",
+    "total_vein_pixels": 38966,
+    "skeleton_length": 3321,
+    "avg_vein_width": 11.73,
+    "num_vein_segments": 5,
+    "vein_density": 0.1486
+  },
+  {
+    "image": "Sulphur_100",
+    "total_vein_pixels": 30882,
+    "skeleton_length": 2642,
+    "avg_vein_width": 11.69,
+    "num_vein_segments": 8,
+    "vein_density": 0.1178
+  },
+  {
+    "image": "Sulphur_101",
+    "total_vein_pixels": 30516,
+    "skeleton_length": 2744,
+    "avg_vein_width": 11.12,
+    "num_vein_segments": 17,
+    "vein_density": 0.1164
+  },
+  {
+    "image": "Sulphur_102",
+    "total_vein_pixels": 30904,
+    "skeleton_length": 2733,
+    "avg_vein_width": 11.31,
+    "num_vein_segments": 18,
+    "vein_density": 0.1179
+  },
+  {
+    "image": "Sulphur_103",
+    "total_vein_pixels": 31152,
+    "skeleton_length": 2850,
+    "avg_vein_width": 10.93,
+    "num_vein_segments": 8,
+    "vein_density": 0.1188
+  },
+  {
+    "image": "Sulphur_104",
+    "total_vein_pixels": 29216,
+    "skeleton_length": 2627,
+    "avg_vein_width": 11.12,
+    "num_vein_segments": 12,
+    "vein_density": 0.1115
+  },
+  {
+    "image": "Sulphur_105",
+    "total_vein_pixels": 33141,
+    "skeleton_length": 2887,
+    "avg_vein_width": 11.48,
+    "num_vein_segments": 10,
+    "vein_density": 0.1264
+  },
+  {
+    "image": "Sulphur_106",
+    "total_vein_pixels": 27656,
+    "skeleton_length": 2318,
+    "avg_vein_width": 11.93,
+    "num_vein_segments": 5,
+    "vein_density": 0.1055
+  },
+  {
+    "image": "Sulphur_107",
+    "total_vein_pixels": 26951,
+    "skeleton_length": 2566,
+    "avg_vein_width": 10.5,
+    "num_vein_segments": 20,
+    "vein_density": 0.1028
+  },
+  {
+    "image": "Sulphur_108",
+    "total_vein_pixels": 31122,
+    "skeleton_length": 2741,
+    "avg_vein_width": 11.35,
+    "num_vein_segments": 9,
+    "vein_density": 0.1187
+  },
+  {
+    "image": "Sulphur_109",
+    "total_vein_pixels": 31784,
+    "skeleton_length": 2827,
+    "avg_vein_width": 11.24,
+    "num_vein_segments": 16,
+    "vein_density": 0.1212
+  },
+  {
+    "image": "Sulphur_11",
+    "total_vein_pixels": 38650,
+    "skeleton_length": 3450,
+    "avg_vein_width": 11.2,
+    "num_vein_segments": 13,
+    "vein_density": 0.1474
+  },
+  {
+    "image": "Sulphur_110",
+    "total_vein_pixels": 29517,
+    "skeleton_length": 2546,
+    "avg_vein_width": 11.59,
+    "num_vein_segments": 14,
+    "vein_density": 0.1126
+  },
+  {
+    "image": "Sulphur_111",
+    "total_vein_pixels": 24223,
+    "skeleton_length": 2107,
+    "avg_vein_width": 11.5,
+    "num_vein_segments": 8,
+    "vein_density": 0.0924
+  },
+  {
+    "image": "Sulphur_112",
+    "total_vein_pixels": 26530,
+    "skeleton_length": 2214,
+    "avg_vein_width": 11.98,
+    "num_vein_segments": 12,
+    "vein_density": 0.1012
+  },
+  {
+    "image": "Sulphur_113",
+    "total_vein_pixels": 21398,
+    "skeleton_length": 1858,
+    "avg_vein_width": 11.52,
+    "num_vein_segments": 21,
+    "vein_density": 0.0816
+  },
+  {
+    "image": "Sulphur_114",
+    "total_vein_pixels": 29474,
+    "skeleton_length": 2448,
+    "avg_vein_width": 12.04,
+    "num_vein_segments": 14,
+    "vein_density": 0.1124
+  },
+  {
+    "image": "Sulphur_115",
+    "total_vein_pixels": 30140,
+    "skeleton_length": 2698,
+    "avg_vein_width": 11.17,
+    "num_vein_segments": 4,
+    "vein_density": 0.115
+  },
+  {
+    "image": "Sulphur_116",
+    "total_vein_pixels": 26569,
+    "skeleton_length": 2247,
+    "avg_vein_width": 11.82,
+    "num_vein_segments": 21,
+    "vein_density": 0.1014
+  },
+  {
+    "image": "Sulphur_117",
+    "total_vein_pixels": 28717,
+    "skeleton_length": 2504,
+    "avg_vein_width": 11.47,
+    "num_vein_segments": 16,
+    "vein_density": 0.1095
+  },
+  {
+    "image": "Sulphur_118",
+    "total_vein_pixels": 31558,
+    "skeleton_length": 2771,
+    "avg_vein_width": 11.39,
+    "num_vein_segments": 7,
+    "vein_density": 0.1204
+  },
+  {
+    "image": "Sulphur_119",
+    "total_vein_pixels": 29442,
+    "skeleton_length": 2562,
+    "avg_vein_width": 11.49,
+    "num_vein_segments": 13,
+    "vein_density": 0.1123
+  },
+  {
+    "image": "Sulphur_12",
+    "total_vein_pixels": 39153,
+    "skeleton_length": 3497,
+    "avg_vein_width": 11.2,
+    "num_vein_segments": 7,
+    "vein_density": 0.1494
+  },
+  {
+    "image": "Sulphur_120",
+    "total_vein_pixels": 32395,
+    "skeleton_length": 2827,
+    "avg_vein_width": 11.46,
+    "num_vein_segments": 15,
+    "vein_density": 0.1236
+  },
+  {
+    "image": "Sulphur_121",
+    "total_vein_pixels": 31491,
+    "skeleton_length": 2664,
+    "avg_vein_width": 11.82,
+    "num_vein_segments": 5,
+    "vein_density": 0.1201
+  },
+  {
+    "image": "Sulphur_122",
+    "total_vein_pixels": 27860,
+    "skeleton_length": 2438,
+    "avg_vein_width": 11.43,
+    "num_vein_segments": 10,
+    "vein_density": 0.1063
+  },
+  {
+    "image": "Sulphur_123",
+    "total_vein_pixels": 33424,
+    "skeleton_length": 3119,
+    "avg_vein_width": 10.72,
+    "num_vein_segments": 11,
+    "vein_density": 0.1275
+  },
+  {
+    "image": "Sulphur_124",
+    "total_vein_pixels": 33234,
+    "skeleton_length": 2915,
+    "avg_vein_width": 11.4,
+    "num_vein_segments": 10,
+    "vein_density": 0.1268
+  },
+  {
+    "image": "Sulphur_125",
+    "total_vein_pixels": 30940,
+    "skeleton_length": 2658,
+    "avg_vein_width": 11.64,
+    "num_vein_segments": 7,
+    "vein_density": 0.118
+  },
+  {
+    "image": "Sulphur_126",
+    "total_vein_pixels": 33906,
+    "skeleton_length": 3145,
+    "avg_vein_width": 10.78,
+    "num_vein_segments": 11,
+    "vein_density": 0.1293
+  },
+  {
+    "image": "Sulphur_127",
+    "total_vein_pixels": 32936,
+    "skeleton_length": 2830,
+    "avg_vein_width": 11.64,
+    "num_vein_segments": 10,
+    "vein_density": 0.1256
+  },
+  {
+    "image": "Sulphur_128",
+    "total_vein_pixels": 31795,
+    "skeleton_length": 2777,
+    "avg_vein_width": 11.45,
+    "num_vein_segments": 9,
+    "vein_density": 0.1213
+  },
+  {
+    "image": "Sulphur_129",
+    "total_vein_pixels": 34449,
+    "skeleton_length": 3135,
+    "avg_vein_width": 10.99,
+    "num_vein_segments": 14,
+    "vein_density": 0.1314
+  },
+  {
+    "image": "Sulphur_13",
+    "total_vein_pixels": 36491,
+    "skeleton_length": 2899,
+    "avg_vein_width": 12.59,
+    "num_vein_segments": 4,
+    "vein_density": 0.1392
+  },
+  {
+    "image": "Sulphur_130",
+    "total_vein_pixels": 29082,
+    "skeleton_length": 2486,
+    "avg_vein_width": 11.7,
+    "num_vein_segments": 12,
+    "vein_density": 0.1109
+  },
+  {
+    "image": "Sulphur_131",
+    "total_vein_pixels": 33134,
+    "skeleton_length": 2883,
+    "avg_vein_width": 11.49,
+    "num_vein_segments": 15,
+    "vein_density": 0.1264
+  },
+  {
+    "image": "Sulphur_132",
+    "total_vein_pixels": 33987,
+    "skeleton_length": 3061,
+    "avg_vein_width": 11.1,
+    "num_vein_segments": 13,
+    "vein_density": 0.1297
+  },
+  {
+    "image": "Sulphur_133",
+    "total_vein_pixels": 33493,
+    "skeleton_length": 2973,
+    "avg_vein_width": 11.27,
+    "num_vein_segments": 2,
+    "vein_density": 0.1278
+  },
+  {
+    "image": "Sulphur_14",
+    "total_vein_pixels": 38635,
+    "skeleton_length": 3268,
+    "avg_vein_width": 11.82,
+    "num_vein_segments": 3,
+    "vein_density": 0.1474
+  },
+  {
+    "image": "Sulphur_15",
+    "total_vein_pixels": 37375,
+    "skeleton_length": 3168,
+    "avg_vein_width": 11.8,
+    "num_vein_segments": 10,
+    "vein_density": 0.1426
+  },
+  {
+    "image": "Sulphur_16",
+    "total_vein_pixels": 40933,
+    "skeleton_length": 3421,
+    "avg_vein_width": 11.97,
+    "num_vein_segments": 6,
+    "vein_density": 0.1561
+  },
+  {
+    "image": "Sulphur_17",
+    "total_vein_pixels": 37013,
+    "skeleton_length": 3105,
+    "avg_vein_width": 11.92,
+    "num_vein_segments": 5,
+    "vein_density": 0.1412
+  },
+  {
+    "image": "Sulphur_18",
+    "total_vein_pixels": 36653,
+    "skeleton_length": 3057,
+    "avg_vein_width": 11.99,
+    "num_vein_segments": 5,
+    "vein_density": 0.1398
+  },
+  {
+    "image": "Sulphur_19",
+    "total_vein_pixels": 33307,
+    "skeleton_length": 2780,
+    "avg_vein_width": 11.98,
+    "num_vein_segments": 3,
+    "vein_density": 0.1271
+  },
+  {
+    "image": "Sulphur_2",
+    "total_vein_pixels": 40678,
+    "skeleton_length": 3456,
+    "avg_vein_width": 11.77,
+    "num_vein_segments": 3,
+    "vein_density": 0.1552
+  },
+  {
+    "image": "Sulphur_20",
+    "total_vein_pixels": 33395,
+    "skeleton_length": 2655,
+    "avg_vein_width": 12.58,
+    "num_vein_segments": 5,
+    "vein_density": 0.1274
+  },
+  {
+    "image": "Sulphur_21",
+    "total_vein_pixels": 39050,
+    "skeleton_length": 3203,
+    "avg_vein_width": 12.19,
+    "num_vein_segments": 4,
+    "vein_density": 0.149
+  },
+  {
+    "image": "Sulphur_22",
+    "total_vein_pixels": 34255,
+    "skeleton_length": 3007,
+    "avg_vein_width": 11.39,
+    "num_vein_segments": 9,
+    "vein_density": 0.1307
+  },
+  {
+    "image": "Sulphur_23",
+    "total_vein_pixels": 33692,
+    "skeleton_length": 2891,
+    "avg_vein_width": 11.65,
+    "num_vein_segments": 8,
+    "vein_density": 0.1285
+  },
+  {
+    "image": "Sulphur_24",
+    "total_vein_pixels": 34718,
+    "skeleton_length": 2869,
+    "avg_vein_width": 12.1,
+    "num_vein_segments": 7,
+    "vein_density": 0.1324
+  },
+  {
+    "image": "Sulphur_25",
+    "total_vein_pixels": 41053,
+    "skeleton_length": 3461,
+    "avg_vein_width": 11.86,
+    "num_vein_segments": 3,
+    "vein_density": 0.1566
+  },
+  {
+    "image": "Sulphur_26",
+    "total_vein_pixels": 35032,
+    "skeleton_length": 2944,
+    "avg_vein_width": 11.9,
+    "num_vein_segments": 6,
+    "vein_density": 0.1336
+  },
+  {
+    "image": "Sulphur_27",
+    "total_vein_pixels": 37681,
+    "skeleton_length": 3160,
+    "avg_vein_width": 11.92,
+    "num_vein_segments": 5,
+    "vein_density": 0.1437
+  },
+  {
+    "image": "Sulphur_28",
+    "total_vein_pixels": 33155,
+    "skeleton_length": 2624,
+    "avg_vein_width": 12.64,
+    "num_vein_segments": 5,
+    "vein_density": 0.1265
+  },
+  {
+    "image": "Sulphur_29",
+    "total_vein_pixels": 35147,
+    "skeleton_length": 2888,
+    "avg_vein_width": 12.17,
+    "num_vein_segments": 6,
+    "vein_density": 0.1341
+  },
+  {
+    "image": "Sulphur_3",
+    "total_vein_pixels": 40866,
+    "skeleton_length": 3548,
+    "avg_vein_width": 11.52,
+    "num_vein_segments": 5,
+    "vein_density": 0.1559
+  },
+  {
+    "image": "Sulphur_30",
+    "total_vein_pixels": 31926,
+    "skeleton_length": 2468,
+    "avg_vein_width": 12.94,
+    "num_vein_segments": 9,
+    "vein_density": 0.1218
+  },
+  {
+    "image": "Sulphur_31",
+    "total_vein_pixels": 37472,
+    "skeleton_length": 3237,
+    "avg_vein_width": 11.58,
+    "num_vein_segments": 11,
+    "vein_density": 0.1429
+  },
+  {
+    "image": "Sulphur_32",
+    "total_vein_pixels": 36474,
+    "skeleton_length": 3178,
+    "avg_vein_width": 11.48,
+    "num_vein_segments": 6,
+    "vein_density": 0.1391
+  },
+  {
+    "image": "Sulphur_33",
+    "total_vein_pixels": 31257,
+    "skeleton_length": 2441,
+    "avg_vein_width": 12.8,
+    "num_vein_segments": 8,
+    "vein_density": 0.1192
+  },
+  {
+    "image": "Sulphur_34",
+    "total_vein_pixels": 32881,
+    "skeleton_length": 2675,
+    "avg_vein_width": 12.29,
+    "num_vein_segments": 5,
+    "vein_density": 0.1254
+  },
+  {
+    "image": "Sulphur_35",
+    "total_vein_pixels": 30116,
+    "skeleton_length": 2558,
+    "avg_vein_width": 11.77,
+    "num_vein_segments": 9,
+    "vein_density": 0.1149
+  },
+  {
+    "image": "Sulphur_36",
+    "total_vein_pixels": 33407,
+    "skeleton_length": 2778,
+    "avg_vein_width": 12.03,
+    "num_vein_segments": 10,
+    "vein_density": 0.1274
+  },
+  {
+    "image": "Sulphur_37",
+    "total_vein_pixels": 34143,
+    "skeleton_length": 2790,
+    "avg_vein_width": 12.24,
+    "num_vein_segments": 6,
+    "vein_density": 0.1302
+  },
+  {
+    "image": "Sulphur_38",
+    "total_vein_pixels": 33664,
+    "skeleton_length": 2740,
+    "avg_vein_width": 12.29,
+    "num_vein_segments": 4,
+    "vein_density": 0.1284
+  },
+  {
+    "image": "Sulphur_39",
+    "total_vein_pixels": 35243,
+    "skeleton_length": 3016,
+    "avg_vein_width": 11.69,
+    "num_vein_segments": 9,
+    "vein_density": 0.1344
+  },
+  {
+    "image": "Sulphur_4",
+    "total_vein_pixels": 28559,
+    "skeleton_length": 2164,
+    "avg_vein_width": 13.2,
+    "num_vein_segments": 5,
+    "vein_density": 0.1089
+  },
+  {
+    "image": "Sulphur_40",
+    "total_vein_pixels": 35697,
+    "skeleton_length": 2984,
+    "avg_vein_width": 11.96,
+    "num_vein_segments": 6,
+    "vein_density": 0.1362
+  },
+  {
+    "image": "Sulphur_41",
+    "total_vein_pixels": 38347,
+    "skeleton_length": 3295,
+    "avg_vein_width": 11.64,
+    "num_vein_segments": 10,
+    "vein_density": 0.1463
+  },
+  {
+    "image": "Sulphur_42",
+    "total_vein_pixels": 38509,
+    "skeleton_length": 3306,
+    "avg_vein_width": 11.65,
+    "num_vein_segments": 4,
+    "vein_density": 0.1469
+  },
+  {
+    "image": "Sulphur_43",
+    "total_vein_pixels": 27742,
+    "skeleton_length": 2083,
+    "avg_vein_width": 13.32,
+    "num_vein_segments": 6,
+    "vein_density": 0.1058
+  },
+  {
+    "image": "Sulphur_44",
+    "total_vein_pixels": 35721,
+    "skeleton_length": 3065,
+    "avg_vein_width": 11.65,
+    "num_vein_segments": 8,
+    "vein_density": 0.1363
+  },
+  {
+    "image": "Sulphur_45",
+    "total_vein_pixels": 38168,
+    "skeleton_length": 3157,
+    "avg_vein_width": 12.09,
+    "num_vein_segments": 3,
+    "vein_density": 0.1456
+  },
+  {
+    "image": "Sulphur_46",
+    "total_vein_pixels": 32670,
+    "skeleton_length": 2701,
+    "avg_vein_width": 12.1,
+    "num_vein_segments": 10,
+    "vein_density": 0.1246
+  },
+  {
+    "image": "Sulphur_47",
+    "total_vein_pixels": 30767,
+    "skeleton_length": 2524,
+    "avg_vein_width": 12.19,
+    "num_vein_segments": 6,
+    "vein_density": 0.1174
+  },
+  {
+    "image": "Sulphur_48",
+    "total_vein_pixels": 31008,
+    "skeleton_length": 2551,
+    "avg_vein_width": 12.16,
+    "num_vein_segments": 8,
+    "vein_density": 0.1183
+  },
+  {
+    "image": "Sulphur_49",
+    "total_vein_pixels": 34435,
+    "skeleton_length": 2983,
+    "avg_vein_width": 11.54,
+    "num_vein_segments": 8,
+    "vein_density": 0.1314
+  },
+  {
+    "image": "Sulphur_5",
+    "total_vein_pixels": 32169,
+    "skeleton_length": 2760,
+    "avg_vein_width": 11.66,
+    "num_vein_segments": 8,
+    "vein_density": 0.1227
+  },
+  {
+    "image": "Sulphur_50",
+    "total_vein_pixels": 34737,
+    "skeleton_length": 2909,
+    "avg_vein_width": 11.94,
+    "num_vein_segments": 10,
+    "vein_density": 0.1325
+  },
+  {
+    "image": "Sulphur_51",
+    "total_vein_pixels": 30803,
+    "skeleton_length": 2552,
+    "avg_vein_width": 12.07,
+    "num_vein_segments": 10,
+    "vein_density": 0.1175
+  },
+  {
+    "image": "Sulphur_52",
+    "total_vein_pixels": 36636,
+    "skeleton_length": 3079,
+    "avg_vein_width": 11.9,
+    "num_vein_segments": 6,
+    "vein_density": 0.1398
+  },
+  {
+    "image": "Sulphur_53",
+    "total_vein_pixels": 34229,
+    "skeleton_length": 2904,
+    "avg_vein_width": 11.79,
+    "num_vein_segments": 7,
+    "vein_density": 0.1306
+  },
+  {
+    "image": "Sulphur_54",
+    "total_vein_pixels": 34608,
+    "skeleton_length": 3118,
+    "avg_vein_width": 11.1,
+    "num_vein_segments": 15,
+    "vein_density": 0.132
+  },
+  {
+    "image": "Sulphur_55",
+    "total_vein_pixels": 31601,
+    "skeleton_length": 2616,
+    "avg_vein_width": 12.08,
+    "num_vein_segments": 7,
+    "vein_density": 0.1205
+  },
+  {
+    "image": "Sulphur_56",
+    "total_vein_pixels": 33528,
+    "skeleton_length": 2752,
+    "avg_vein_width": 12.18,
+    "num_vein_segments": 7,
+    "vein_density": 0.1279
+  },
+  {
+    "image": "Sulphur_57",
+    "total_vein_pixels": 31304,
+    "skeleton_length": 2503,
+    "avg_vein_width": 12.51,
+    "num_vein_segments": 9,
+    "vein_density": 0.1194
+  },
+  {
+    "image": "Sulphur_58",
+    "total_vein_pixels": 33329,
+    "skeleton_length": 2802,
+    "avg_vein_width": 11.89,
+    "num_vein_segments": 5,
+    "vein_density": 0.1271
+  },
+  {
+    "image": "Sulphur_59",
+    "total_vein_pixels": 28003,
+    "skeleton_length": 2126,
+    "avg_vein_width": 13.17,
+    "num_vein_segments": 7,
+    "vein_density": 0.1068
+  },
+  {
+    "image": "Sulphur_6",
+    "total_vein_pixels": 40788,
+    "skeleton_length": 3637,
+    "avg_vein_width": 11.21,
+    "num_vein_segments": 12,
+    "vein_density": 0.1556
+  },
+  {
+    "image": "Sulphur_60",
+    "total_vein_pixels": 31697,
+    "skeleton_length": 2401,
+    "avg_vein_width": 13.2,
+    "num_vein_segments": 7,
+    "vein_density": 0.1209
+  },
+  {
+    "image": "Sulphur_61",
+    "total_vein_pixels": 32953,
+    "skeleton_length": 2562,
+    "avg_vein_width": 12.86,
+    "num_vein_segments": 5,
+    "vein_density": 0.1257
+  },
+  {
+    "image": "Sulphur_62",
+    "total_vein_pixels": 36849,
+    "skeleton_length": 3019,
+    "avg_vein_width": 12.21,
+    "num_vein_segments": 3,
+    "vein_density": 0.1406
+  },
+  {
+    "image": "Sulphur_63",
+    "total_vein_pixels": 31472,
+    "skeleton_length": 2496,
+    "avg_vein_width": 12.61,
+    "num_vein_segments": 8,
+    "vein_density": 0.1201
+  },
+  {
+    "image": "Sulphur_64",
+    "total_vein_pixels": 32052,
+    "skeleton_length": 2537,
+    "avg_vein_width": 12.63,
+    "num_vein_segments": 8,
+    "vein_density": 0.1223
+  },
+  {
+    "image": "Sulphur_65",
+    "total_vein_pixels": 33940,
+    "skeleton_length": 2765,
+    "avg_vein_width": 12.27,
+    "num_vein_segments": 3,
+    "vein_density": 0.1295
+  },
+  {
+    "image": "Sulphur_66",
+    "total_vein_pixels": 34105,
+    "skeleton_length": 2763,
+    "avg_vein_width": 12.34,
+    "num_vein_segments": 8,
+    "vein_density": 0.1301
+  },
+  {
+    "image": "Sulphur_67",
+    "total_vein_pixels": 34642,
+    "skeleton_length": 2875,
+    "avg_vein_width": 12.05,
+    "num_vein_segments": 10,
+    "vein_density": 0.1321
+  },
+  {
+    "image": "Sulphur_68",
+    "total_vein_pixels": 28378,
+    "skeleton_length": 2171,
+    "avg_vein_width": 13.07,
+    "num_vein_segments": 6,
+    "vein_density": 0.1083
+  },
+  {
+    "image": "Sulphur_69",
+    "total_vein_pixels": 36343,
+    "skeleton_length": 3044,
+    "avg_vein_width": 11.94,
+    "num_vein_segments": 12,
+    "vein_density": 0.1386
+  },
+  {
+    "image": "Sulphur_7",
+    "total_vein_pixels": 38514,
+    "skeleton_length": 3321,
+    "avg_vein_width": 11.6,
+    "num_vein_segments": 6,
+    "vein_density": 0.1469
+  },
+  {
+    "image": "Sulphur_70",
+    "total_vein_pixels": 30564,
+    "skeleton_length": 2370,
+    "avg_vein_width": 12.9,
+    "num_vein_segments": 13,
+    "vein_density": 0.1166
+  },
+  {
+    "image": "Sulphur_71",
+    "total_vein_pixels": 31953,
+    "skeleton_length": 2657,
+    "avg_vein_width": 12.03,
+    "num_vein_segments": 17,
+    "vein_density": 0.1219
+  },
+  {
+    "image": "Sulphur_72",
+    "total_vein_pixels": 30799,
+    "skeleton_length": 2510,
+    "avg_vein_width": 12.27,
+    "num_vein_segments": 13,
+    "vein_density": 0.1175
+  },
+  {
+    "image": "Sulphur_73",
+    "total_vein_pixels": 34698,
+    "skeleton_length": 2986,
+    "avg_vein_width": 11.62,
+    "num_vein_segments": 2,
+    "vein_density": 0.1324
+  },
+  {
+    "image": "Sulphur_74",
+    "total_vein_pixels": 31153,
+    "skeleton_length": 2620,
+    "avg_vein_width": 11.89,
+    "num_vein_segments": 12,
+    "vein_density": 0.1188
+  },
+  {
+    "image": "Sulphur_75",
+    "total_vein_pixels": 32823,
+    "skeleton_length": 3011,
+    "avg_vein_width": 10.9,
+    "num_vein_segments": 11,
+    "vein_density": 0.1252
+  },
+  {
+    "image": "Sulphur_76",
+    "total_vein_pixels": 31841,
+    "skeleton_length": 2860,
+    "avg_vein_width": 11.13,
+    "num_vein_segments": 12,
+    "vein_density": 0.1215
+  },
+  {
+    "image": "Sulphur_77",
+    "total_vein_pixels": 34589,
+    "skeleton_length": 3041,
+    "avg_vein_width": 11.37,
+    "num_vein_segments": 7,
+    "vein_density": 0.1319
+  },
+  {
+    "image": "Sulphur_78",
+    "total_vein_pixels": 28278,
+    "skeleton_length": 2340,
+    "avg_vein_width": 12.08,
+    "num_vein_segments": 9,
+    "vein_density": 0.1079
+  },
+  {
+    "image": "Sulphur_79",
+    "total_vein_pixels": 34032,
+    "skeleton_length": 3078,
+    "avg_vein_width": 11.06,
+    "num_vein_segments": 11,
+    "vein_density": 0.1298
+  },
+  {
+    "image": "Sulphur_8",
+    "total_vein_pixels": 38678,
+    "skeleton_length": 3268,
+    "avg_vein_width": 11.84,
+    "num_vein_segments": 7,
+    "vein_density": 0.1475
+  },
+  {
+    "image": "Sulphur_80",
+    "total_vein_pixels": 27465,
+    "skeleton_length": 2442,
+    "avg_vein_width": 11.25,
+    "num_vein_segments": 9,
+    "vein_density": 0.1048
+  },
+  {
+    "image": "Sulphur_81",
+    "total_vein_pixels": 29648,
+    "skeleton_length": 2447,
+    "avg_vein_width": 12.12,
+    "num_vein_segments": 11,
+    "vein_density": 0.1131
+  },
+  {
+    "image": "Sulphur_82",
+    "total_vein_pixels": 28641,
+    "skeleton_length": 2498,
+    "avg_vein_width": 11.47,
+    "num_vein_segments": 13,
+    "vein_density": 0.1093
+  },
+  {
+    "image": "Sulphur_83",
+    "total_vein_pixels": 27464,
+    "skeleton_length": 2403,
+    "avg_vein_width": 11.43,
+    "num_vein_segments": 6,
+    "vein_density": 0.1048
+  },
+  {
+    "image": "Sulphur_84",
+    "total_vein_pixels": 28606,
+    "skeleton_length": 2493,
+    "avg_vein_width": 11.47,
+    "num_vein_segments": 6,
+    "vein_density": 0.1091
+  },
+  {
+    "image": "Sulphur_85",
+    "total_vein_pixels": 29745,
+    "skeleton_length": 2708,
+    "avg_vein_width": 10.98,
+    "num_vein_segments": 12,
+    "vein_density": 0.1135
+  },
+  {
+    "image": "Sulphur_86",
+    "total_vein_pixels": 31111,
+    "skeleton_length": 2709,
+    "avg_vein_width": 11.48,
+    "num_vein_segments": 3,
+    "vein_density": 0.1187
+  },
+  {
+    "image": "Sulphur_87",
+    "total_vein_pixels": 28312,
+    "skeleton_length": 2415,
+    "avg_vein_width": 11.72,
+    "num_vein_segments": 10,
+    "vein_density": 0.108
+  },
+  {
+    "image": "Sulphur_88",
+    "total_vein_pixels": 27719,
+    "skeleton_length": 2426,
+    "avg_vein_width": 11.43,
+    "num_vein_segments": 8,
+    "vein_density": 0.1057
+  },
+  {
+    "image": "Sulphur_89",
+    "total_vein_pixels": 34917,
+    "skeleton_length": 3168,
+    "avg_vein_width": 11.02,
+    "num_vein_segments": 12,
+    "vein_density": 0.1332
+  },
+  {
+    "image": "Sulphur_9",
+    "total_vein_pixels": 27884,
+    "skeleton_length": 2289,
+    "avg_vein_width": 12.18,
+    "num_vein_segments": 10,
+    "vein_density": 0.1064
+  },
+  {
+    "image": "Sulphur_90",
+    "total_vein_pixels": 31048,
+    "skeleton_length": 2705,
+    "avg_vein_width": 11.48,
+    "num_vein_segments": 12,
+    "vein_density": 0.1184
+  },
+  {
+    "image": "Sulphur_91",
+    "total_vein_pixels": 29884,
+    "skeleton_length": 2566,
+    "avg_vein_width": 11.65,
+    "num_vein_segments": 7,
+    "vein_density": 0.114
+  },
+  {
+    "image": "Sulphur_92",
+    "total_vein_pixels": 29947,
+    "skeleton_length": 2635,
+    "avg_vein_width": 11.37,
+    "num_vein_segments": 10,
+    "vein_density": 0.1142
+  },
+  {
+    "image": "Sulphur_93",
+    "total_vein_pixels": 34732,
+    "skeleton_length": 3197,
+    "avg_vein_width": 10.86,
+    "num_vein_segments": 6,
+    "vein_density": 0.1325
+  },
+  {
+    "image": "Sulphur_94",
+    "total_vein_pixels": 34501,
+    "skeleton_length": 3085,
+    "avg_vein_width": 11.18,
+    "num_vein_segments": 9,
+    "vein_density": 0.1316
+  },
+  {
+    "image": "Sulphur_95",
+    "total_vein_pixels": 28883,
+    "skeleton_length": 2540,
+    "avg_vein_width": 11.37,
+    "num_vein_segments": 8,
+    "vein_density": 0.1102
+  },
+  {
+    "image": "Sulphur_96",
+    "total_vein_pixels": 32270,
+    "skeleton_length": 2772,
+    "avg_vein_width": 11.64,
+    "num_vein_segments": 7,
+    "vein_density": 0.1231
+  },
+  {
+    "image": "Sulphur_97",
+    "total_vein_pixels": 33519,
+    "skeleton_length": 3005,
+    "avg_vein_width": 11.15,
+    "num_vein_segments": 7,
+    "vein_density": 0.1279
+  },
+  {
+    "image": "Sulphur_98",
+    "total_vein_pixels": 34889,
+    "skeleton_length": 3088,
+    "avg_vein_width": 11.3,
+    "num_vein_segments": 5,
+    "vein_density": 0.1331
+  },
+  {
+    "image": "Sulphur_99",
+    "total_vein_pixels": 28075,
+    "skeleton_length": 2357,
+    "avg_vein_width": 11.91,
+    "num_vein_segments": 9,
+    "vein_density": 0.1071
+  }
+]

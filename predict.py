@@ -1,4 +1,3 @@
-# predict.py (enhanced - final version without per-image JSON files)
 import os
 import cv2
 import torch
@@ -19,7 +18,7 @@ CKPT_PATHS = ["ckpt_unet_allself_bs8_s42.pth", "ckpt_unet_allself_bs8_s7.pth"]  
 INFER_SIZE = (512, 512)
 BASE_THRESH = 0.08
 MIN_AREA = 80
-OUTPUT_DIR = "output-K"
+OUTPUT_DIR = "output-all-data"
 CONNECT_MAX_DIST = 40
 CONNECT_MIN_PROB = 0.15
 
@@ -325,31 +324,41 @@ def predict_and_save(models, image_path, save_dir=OUTPUT_DIR,
     }
 
 
-# ---------- Main ----------
 if __name__ == "__main__":
-    test_dir = "test K"
+    leaf_classes = ["H", "P", "S", "Z", "N"]
+
     exts = [".jpg", ".jpeg", ".png"]
 
     models = load_models(CKPT_PATHS)
     print(f"Loaded {len(models)} model(s) for {'ensemble' if USE_ENSEMBLE else 'single'} prediction")
     print(f"TTA: {'Enabled' if USE_TTA else 'Disabled'}")
 
-    all_metrics = []
+    for leaf_class in leaf_classes:
+        test_dir = f"dataset leaf/{leaf_class}"
 
-    for fname in sorted(os.listdir(test_dir)):
-        if any(fname.lower().endswith(ext) for ext in exts):
-            image_path = os.path.join(test_dir, fname)
-            print(f"\n🌿 Processing: {fname}")
-            result = predict_and_save(models, image_path,
-                                      base_thresh=BASE_THRESH,
-                                      min_area=MIN_AREA,
-                                      save_overlay=True)
-            all_metrics.append(result["metrics"])
+        output_dir = f"output-{leaf_class}"
+        # Create subfolders in output (for each class)
+        for sf in SUBFOLDERS.values():
+            os.makedirs(os.path.join(output_dir, sf), exist_ok=True)
 
-    # Save only ONE summary JSON with all metrics
-    summary_path = os.path.join(OUTPUT_DIR, "summary_metrics.json")
-    with open(summary_path, 'w') as f:
-        json.dump(all_metrics, f, indent=2)
+        all_metrics = []
 
-    print(f"\n✅ Done! Results saved to: {OUTPUT_DIR}")
-    print(f"📊 Summary metrics: {summary_path}")
+        print(f"\nProcessing class '{leaf_class}' ...")
+        for fname in sorted(os.listdir(test_dir)):
+            if any(fname.lower().endswith(ext) for ext in exts):
+                image_path = os.path.join(test_dir, fname)
+                print(f"\nProcessing: {fname}")
+                result = predict_and_save(models, image_path,
+                                          save_dir=output_dir,
+                                          base_thresh=BASE_THRESH,
+                                          min_area=MIN_AREA,
+                                          save_overlay=True)
+                all_metrics.append(result["metrics"])
+
+        # Save per-class summary JSON
+        summary_path = os.path.join(output_dir, "summary_metrics.json")
+        with open(summary_path, 'w') as f:
+            json.dump(all_metrics, f, indent=2)
+
+        print(f"\nDone! Results for '{leaf_class}' saved to: {output_dir}")
+        print(f" Summary metrics: {summary_path}")

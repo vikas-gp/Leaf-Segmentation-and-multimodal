@@ -1,0 +1,1442 @@
+[
+  {
+    "image": "Zinc_1",
+    "total_vein_pixels": 29513,
+    "skeleton_length": 2335,
+    "avg_vein_width": 12.64,
+    "num_vein_segments": 4,
+    "vein_density": 0.1126
+  },
+  {
+    "image": "Zinc_10",
+    "total_vein_pixels": 30819,
+    "skeleton_length": 2435,
+    "avg_vein_width": 12.66,
+    "num_vein_segments": 11,
+    "vein_density": 0.1176
+  },
+  {
+    "image": "Zinc_100",
+    "total_vein_pixels": 31009,
+    "skeleton_length": 2734,
+    "avg_vein_width": 11.34,
+    "num_vein_segments": 6,
+    "vein_density": 0.1183
+  },
+  {
+    "image": "Zinc_101",
+    "total_vein_pixels": 38086,
+    "skeleton_length": 3552,
+    "avg_vein_width": 10.72,
+    "num_vein_segments": 2,
+    "vein_density": 0.1453
+  },
+  {
+    "image": "Zinc_103",
+    "total_vein_pixels": 32992,
+    "skeleton_length": 2822,
+    "avg_vein_width": 11.69,
+    "num_vein_segments": 6,
+    "vein_density": 0.1259
+  },
+  {
+    "image": "Zinc_104",
+    "total_vein_pixels": 36153,
+    "skeleton_length": 3001,
+    "avg_vein_width": 12.05,
+    "num_vein_segments": 1,
+    "vein_density": 0.1379
+  },
+  {
+    "image": "Zinc_106",
+    "total_vein_pixels": 33057,
+    "skeleton_length": 2872,
+    "avg_vein_width": 11.51,
+    "num_vein_segments": 5,
+    "vein_density": 0.1261
+  },
+  {
+    "image": "Zinc_107",
+    "total_vein_pixels": 29220,
+    "skeleton_length": 2594,
+    "avg_vein_width": 11.26,
+    "num_vein_segments": 5,
+    "vein_density": 0.1115
+  },
+  {
+    "image": "Zinc_108",
+    "total_vein_pixels": 35337,
+    "skeleton_length": 3074,
+    "avg_vein_width": 11.5,
+    "num_vein_segments": 8,
+    "vein_density": 0.1348
+  },
+  {
+    "image": "Zinc_109",
+    "total_vein_pixels": 29848,
+    "skeleton_length": 2599,
+    "avg_vein_width": 11.48,
+    "num_vein_segments": 5,
+    "vein_density": 0.1139
+  },
+  {
+    "image": "Zinc_11",
+    "total_vein_pixels": 32362,
+    "skeleton_length": 2795,
+    "avg_vein_width": 11.58,
+    "num_vein_segments": 5,
+    "vein_density": 0.1235
+  },
+  {
+    "image": "Zinc_110",
+    "total_vein_pixels": 30000,
+    "skeleton_length": 2575,
+    "avg_vein_width": 11.65,
+    "num_vein_segments": 3,
+    "vein_density": 0.1144
+  },
+  {
+    "image": "Zinc_112",
+    "total_vein_pixels": 37364,
+    "skeleton_length": 3290,
+    "avg_vein_width": 11.36,
+    "num_vein_segments": 10,
+    "vein_density": 0.1425
+  },
+  {
+    "image": "Zinc_113",
+    "total_vein_pixels": 31474,
+    "skeleton_length": 2696,
+    "avg_vein_width": 11.67,
+    "num_vein_segments": 5,
+    "vein_density": 0.1201
+  },
+  {
+    "image": "Zinc_114",
+    "total_vein_pixels": 35469,
+    "skeleton_length": 3108,
+    "avg_vein_width": 11.41,
+    "num_vein_segments": 7,
+    "vein_density": 0.1353
+  },
+  {
+    "image": "Zinc_115",
+    "total_vein_pixels": 29326,
+    "skeleton_length": 2587,
+    "avg_vein_width": 11.34,
+    "num_vein_segments": 6,
+    "vein_density": 0.1119
+  },
+  {
+    "image": "Zinc_116",
+    "total_vein_pixels": 35752,
+    "skeleton_length": 2891,
+    "avg_vein_width": 12.37,
+    "num_vein_segments": 5,
+    "vein_density": 0.1364
+  },
+  {
+    "image": "Zinc_117",
+    "total_vein_pixels": 31493,
+    "skeleton_length": 2737,
+    "avg_vein_width": 11.51,
+    "num_vein_segments": 5,
+    "vein_density": 0.1201
+  },
+  {
+    "image": "Zinc_118",
+    "total_vein_pixels": 31675,
+    "skeleton_length": 2608,
+    "avg_vein_width": 12.15,
+    "num_vein_segments": 7,
+    "vein_density": 0.1208
+  },
+  {
+    "image": "Zinc_119",
+    "total_vein_pixels": 28613,
+    "skeleton_length": 2390,
+    "avg_vein_width": 11.97,
+    "num_vein_segments": 9,
+    "vein_density": 0.1091
+  },
+  {
+    "image": "Zinc_12",
+    "total_vein_pixels": 35662,
+    "skeleton_length": 3128,
+    "avg_vein_width": 11.4,
+    "num_vein_segments": 9,
+    "vein_density": 0.136
+  },
+  {
+    "image": "Zinc_120",
+    "total_vein_pixels": 31122,
+    "skeleton_length": 2720,
+    "avg_vein_width": 11.44,
+    "num_vein_segments": 4,
+    "vein_density": 0.1187
+  },
+  {
+    "image": "Zinc_121",
+    "total_vein_pixels": 34721,
+    "skeleton_length": 3033,
+    "avg_vein_width": 11.45,
+    "num_vein_segments": 5,
+    "vein_density": 0.1325
+  },
+  {
+    "image": "Zinc_122",
+    "total_vein_pixels": 37169,
+    "skeleton_length": 3468,
+    "avg_vein_width": 10.72,
+    "num_vein_segments": 7,
+    "vein_density": 0.1418
+  },
+  {
+    "image": "Zinc_124",
+    "total_vein_pixels": 34933,
+    "skeleton_length": 2911,
+    "avg_vein_width": 12.0,
+    "num_vein_segments": 6,
+    "vein_density": 0.1333
+  },
+  {
+    "image": "Zinc_125",
+    "total_vein_pixels": 32197,
+    "skeleton_length": 2810,
+    "avg_vein_width": 11.46,
+    "num_vein_segments": 8,
+    "vein_density": 0.1228
+  },
+  {
+    "image": "Zinc_126",
+    "total_vein_pixels": 38067,
+    "skeleton_length": 3399,
+    "avg_vein_width": 11.2,
+    "num_vein_segments": 3,
+    "vein_density": 0.1452
+  },
+  {
+    "image": "Zinc_127",
+    "total_vein_pixels": 35962,
+    "skeleton_length": 3291,
+    "avg_vein_width": 10.93,
+    "num_vein_segments": 6,
+    "vein_density": 0.1372
+  },
+  {
+    "image": "Zinc_128",
+    "total_vein_pixels": 34993,
+    "skeleton_length": 3031,
+    "avg_vein_width": 11.55,
+    "num_vein_segments": 6,
+    "vein_density": 0.1335
+  },
+  {
+    "image": "Zinc_129",
+    "total_vein_pixels": 33680,
+    "skeleton_length": 2912,
+    "avg_vein_width": 11.57,
+    "num_vein_segments": 6,
+    "vein_density": 0.1285
+  },
+  {
+    "image": "Zinc_13",
+    "total_vein_pixels": 34760,
+    "skeleton_length": 2727,
+    "avg_vein_width": 12.75,
+    "num_vein_segments": 3,
+    "vein_density": 0.1326
+  },
+  {
+    "image": "Zinc_130",
+    "total_vein_pixels": 30255,
+    "skeleton_length": 2616,
+    "avg_vein_width": 11.57,
+    "num_vein_segments": 3,
+    "vein_density": 0.1154
+  },
+  {
+    "image": "Zinc_131",
+    "total_vein_pixels": 35850,
+    "skeleton_length": 3113,
+    "avg_vein_width": 11.52,
+    "num_vein_segments": 5,
+    "vein_density": 0.1368
+  },
+  {
+    "image": "Zinc_132",
+    "total_vein_pixels": 33326,
+    "skeleton_length": 2933,
+    "avg_vein_width": 11.36,
+    "num_vein_segments": 4,
+    "vein_density": 0.1271
+  },
+  {
+    "image": "Zinc_133",
+    "total_vein_pixels": 32401,
+    "skeleton_length": 2832,
+    "avg_vein_width": 11.44,
+    "num_vein_segments": 8,
+    "vein_density": 0.1236
+  },
+  {
+    "image": "Zinc_134",
+    "total_vein_pixels": 34158,
+    "skeleton_length": 2970,
+    "avg_vein_width": 11.5,
+    "num_vein_segments": 6,
+    "vein_density": 0.1303
+  },
+  {
+    "image": "Zinc_135",
+    "total_vein_pixels": 36528,
+    "skeleton_length": 2922,
+    "avg_vein_width": 12.5,
+    "num_vein_segments": 4,
+    "vein_density": 0.1393
+  },
+  {
+    "image": "Zinc_136",
+    "total_vein_pixels": 38437,
+    "skeleton_length": 3480,
+    "avg_vein_width": 11.05,
+    "num_vein_segments": 5,
+    "vein_density": 0.1466
+  },
+  {
+    "image": "Zinc_137",
+    "total_vein_pixels": 37176,
+    "skeleton_length": 3272,
+    "avg_vein_width": 11.36,
+    "num_vein_segments": 4,
+    "vein_density": 0.1418
+  },
+  {
+    "image": "Zinc_138",
+    "total_vein_pixels": 34010,
+    "skeleton_length": 2943,
+    "avg_vein_width": 11.56,
+    "num_vein_segments": 8,
+    "vein_density": 0.1297
+  },
+  {
+    "image": "Zinc_14",
+    "total_vein_pixels": 31518,
+    "skeleton_length": 2580,
+    "avg_vein_width": 12.22,
+    "num_vein_segments": 11,
+    "vein_density": 0.1202
+  },
+  {
+    "image": "Zinc_140",
+    "total_vein_pixels": 37466,
+    "skeleton_length": 3339,
+    "avg_vein_width": 11.22,
+    "num_vein_segments": 7,
+    "vein_density": 0.1429
+  },
+  {
+    "image": "Zinc_141",
+    "total_vein_pixels": 40136,
+    "skeleton_length": 3729,
+    "avg_vein_width": 10.76,
+    "num_vein_segments": 7,
+    "vein_density": 0.1531
+  },
+  {
+    "image": "Zinc_142",
+    "total_vein_pixels": 33556,
+    "skeleton_length": 2864,
+    "avg_vein_width": 11.72,
+    "num_vein_segments": 6,
+    "vein_density": 0.128
+  },
+  {
+    "image": "Zinc_144",
+    "total_vein_pixels": 41956,
+    "skeleton_length": 3702,
+    "avg_vein_width": 11.33,
+    "num_vein_segments": 3,
+    "vein_density": 0.16
+  },
+  {
+    "image": "Zinc_145",
+    "total_vein_pixels": 34691,
+    "skeleton_length": 3016,
+    "avg_vein_width": 11.5,
+    "num_vein_segments": 7,
+    "vein_density": 0.1323
+  },
+  {
+    "image": "Zinc_15",
+    "total_vein_pixels": 34643,
+    "skeleton_length": 2754,
+    "avg_vein_width": 12.58,
+    "num_vein_segments": 7,
+    "vein_density": 0.1322
+  },
+  {
+    "image": "Zinc_150",
+    "total_vein_pixels": 44042,
+    "skeleton_length": 3576,
+    "avg_vein_width": 12.32,
+    "num_vein_segments": 2,
+    "vein_density": 0.168
+  },
+  {
+    "image": "Zinc_152",
+    "total_vein_pixels": 35852,
+    "skeleton_length": 2859,
+    "avg_vein_width": 12.54,
+    "num_vein_segments": 5,
+    "vein_density": 0.1368
+  },
+  {
+    "image": "Zinc_153",
+    "total_vein_pixels": 33318,
+    "skeleton_length": 2658,
+    "avg_vein_width": 12.53,
+    "num_vein_segments": 8,
+    "vein_density": 0.1271
+  },
+  {
+    "image": "Zinc_154",
+    "total_vein_pixels": 41035,
+    "skeleton_length": 3320,
+    "avg_vein_width": 12.36,
+    "num_vein_segments": 3,
+    "vein_density": 0.1565
+  },
+  {
+    "image": "Zinc_155",
+    "total_vein_pixels": 37467,
+    "skeleton_length": 3382,
+    "avg_vein_width": 11.08,
+    "num_vein_segments": 4,
+    "vein_density": 0.1429
+  },
+  {
+    "image": "Zinc_156",
+    "total_vein_pixels": 39788,
+    "skeleton_length": 3317,
+    "avg_vein_width": 12.0,
+    "num_vein_segments": 3,
+    "vein_density": 0.1518
+  },
+  {
+    "image": "Zinc_157",
+    "total_vein_pixels": 34712,
+    "skeleton_length": 2948,
+    "avg_vein_width": 11.77,
+    "num_vein_segments": 11,
+    "vein_density": 0.1324
+  },
+  {
+    "image": "Zinc_158",
+    "total_vein_pixels": 33960,
+    "skeleton_length": 2889,
+    "avg_vein_width": 11.75,
+    "num_vein_segments": 6,
+    "vein_density": 0.1295
+  },
+  {
+    "image": "Zinc_159",
+    "total_vein_pixels": 32011,
+    "skeleton_length": 2585,
+    "avg_vein_width": 12.38,
+    "num_vein_segments": 8,
+    "vein_density": 0.1221
+  },
+  {
+    "image": "Zinc_16",
+    "total_vein_pixels": 34941,
+    "skeleton_length": 2992,
+    "avg_vein_width": 11.68,
+    "num_vein_segments": 8,
+    "vein_density": 0.1333
+  },
+  {
+    "image": "Zinc_160",
+    "total_vein_pixels": 35749,
+    "skeleton_length": 2939,
+    "avg_vein_width": 12.16,
+    "num_vein_segments": 4,
+    "vein_density": 0.1364
+  },
+  {
+    "image": "Zinc_161",
+    "total_vein_pixels": 38293,
+    "skeleton_length": 3448,
+    "avg_vein_width": 11.11,
+    "num_vein_segments": 9,
+    "vein_density": 0.1461
+  },
+  {
+    "image": "Zinc_162",
+    "total_vein_pixels": 38036,
+    "skeleton_length": 3286,
+    "avg_vein_width": 11.58,
+    "num_vein_segments": 7,
+    "vein_density": 0.1451
+  },
+  {
+    "image": "Zinc_163",
+    "total_vein_pixels": 35721,
+    "skeleton_length": 2805,
+    "avg_vein_width": 12.73,
+    "num_vein_segments": 5,
+    "vein_density": 0.1363
+  },
+  {
+    "image": "Zinc_164",
+    "total_vein_pixels": 39356,
+    "skeleton_length": 3300,
+    "avg_vein_width": 11.93,
+    "num_vein_segments": 7,
+    "vein_density": 0.1501
+  },
+  {
+    "image": "Zinc_165",
+    "total_vein_pixels": 37144,
+    "skeleton_length": 3076,
+    "avg_vein_width": 12.08,
+    "num_vein_segments": 5,
+    "vein_density": 0.1417
+  },
+  {
+    "image": "Zinc_166",
+    "total_vein_pixels": 38218,
+    "skeleton_length": 3061,
+    "avg_vein_width": 12.49,
+    "num_vein_segments": 2,
+    "vein_density": 0.1458
+  },
+  {
+    "image": "Zinc_167",
+    "total_vein_pixels": 40526,
+    "skeleton_length": 3486,
+    "avg_vein_width": 11.63,
+    "num_vein_segments": 6,
+    "vein_density": 0.1546
+  },
+  {
+    "image": "Zinc_168",
+    "total_vein_pixels": 36740,
+    "skeleton_length": 2967,
+    "avg_vein_width": 12.38,
+    "num_vein_segments": 7,
+    "vein_density": 0.1402
+  },
+  {
+    "image": "Zinc_169",
+    "total_vein_pixels": 38858,
+    "skeleton_length": 3107,
+    "avg_vein_width": 12.51,
+    "num_vein_segments": 6,
+    "vein_density": 0.1482
+  },
+  {
+    "image": "Zinc_17",
+    "total_vein_pixels": 37569,
+    "skeleton_length": 3204,
+    "avg_vein_width": 11.73,
+    "num_vein_segments": 7,
+    "vein_density": 0.1433
+  },
+  {
+    "image": "Zinc_170",
+    "total_vein_pixels": 38109,
+    "skeleton_length": 3123,
+    "avg_vein_width": 12.2,
+    "num_vein_segments": 5,
+    "vein_density": 0.1454
+  },
+  {
+    "image": "Zinc_171",
+    "total_vein_pixels": 39757,
+    "skeleton_length": 3263,
+    "avg_vein_width": 12.18,
+    "num_vein_segments": 6,
+    "vein_density": 0.1517
+  },
+  {
+    "image": "Zinc_172",
+    "total_vein_pixels": 39529,
+    "skeleton_length": 3192,
+    "avg_vein_width": 12.38,
+    "num_vein_segments": 8,
+    "vein_density": 0.1508
+  },
+  {
+    "image": "Zinc_173",
+    "total_vein_pixels": 35371,
+    "skeleton_length": 2965,
+    "avg_vein_width": 11.93,
+    "num_vein_segments": 6,
+    "vein_density": 0.1349
+  },
+  {
+    "image": "Zinc_174",
+    "total_vein_pixels": 34459,
+    "skeleton_length": 3021,
+    "avg_vein_width": 11.41,
+    "num_vein_segments": 9,
+    "vein_density": 0.1315
+  },
+  {
+    "image": "Zinc_179",
+    "total_vein_pixels": 25575,
+    "skeleton_length": 2379,
+    "avg_vein_width": 10.75,
+    "num_vein_segments": 12,
+    "vein_density": 0.0976
+  },
+  {
+    "image": "Zinc_18",
+    "total_vein_pixels": 36412,
+    "skeleton_length": 2731,
+    "avg_vein_width": 13.33,
+    "num_vein_segments": 3,
+    "vein_density": 0.1389
+  },
+  {
+    "image": "Zinc_180",
+    "total_vein_pixels": 24449,
+    "skeleton_length": 2290,
+    "avg_vein_width": 10.68,
+    "num_vein_segments": 18,
+    "vein_density": 0.0933
+  },
+  {
+    "image": "Zinc_181",
+    "total_vein_pixels": 27287,
+    "skeleton_length": 2399,
+    "avg_vein_width": 11.37,
+    "num_vein_segments": 14,
+    "vein_density": 0.1041
+  },
+  {
+    "image": "Zinc_182",
+    "total_vein_pixels": 23843,
+    "skeleton_length": 2179,
+    "avg_vein_width": 10.94,
+    "num_vein_segments": 14,
+    "vein_density": 0.091
+  },
+  {
+    "image": "Zinc_183",
+    "total_vein_pixels": 26830,
+    "skeleton_length": 2348,
+    "avg_vein_width": 11.43,
+    "num_vein_segments": 4,
+    "vein_density": 0.1023
+  },
+  {
+    "image": "Zinc_184",
+    "total_vein_pixels": 29336,
+    "skeleton_length": 2565,
+    "avg_vein_width": 11.44,
+    "num_vein_segments": 11,
+    "vein_density": 0.1119
+  },
+  {
+    "image": "Zinc_185",
+    "total_vein_pixels": 30592,
+    "skeleton_length": 2649,
+    "avg_vein_width": 11.55,
+    "num_vein_segments": 10,
+    "vein_density": 0.1167
+  },
+  {
+    "image": "Zinc_186",
+    "total_vein_pixels": 25998,
+    "skeleton_length": 2211,
+    "avg_vein_width": 11.76,
+    "num_vein_segments": 10,
+    "vein_density": 0.0992
+  },
+  {
+    "image": "Zinc_187",
+    "total_vein_pixels": 30646,
+    "skeleton_length": 2597,
+    "avg_vein_width": 11.8,
+    "num_vein_segments": 8,
+    "vein_density": 0.1169
+  },
+  {
+    "image": "Zinc_188",
+    "total_vein_pixels": 30042,
+    "skeleton_length": 2664,
+    "avg_vein_width": 11.28,
+    "num_vein_segments": 7,
+    "vein_density": 0.1146
+  },
+  {
+    "image": "Zinc_189",
+    "total_vein_pixels": 28690,
+    "skeleton_length": 2404,
+    "avg_vein_width": 11.93,
+    "num_vein_segments": 10,
+    "vein_density": 0.1094
+  },
+  {
+    "image": "Zinc_19",
+    "total_vein_pixels": 41504,
+    "skeleton_length": 3486,
+    "avg_vein_width": 11.91,
+    "num_vein_segments": 6,
+    "vein_density": 0.1583
+  },
+  {
+    "image": "Zinc_190",
+    "total_vein_pixels": 31361,
+    "skeleton_length": 2716,
+    "avg_vein_width": 11.55,
+    "num_vein_segments": 12,
+    "vein_density": 0.1196
+  },
+  {
+    "image": "Zinc_194",
+    "total_vein_pixels": 32914,
+    "skeleton_length": 3084,
+    "avg_vein_width": 10.67,
+    "num_vein_segments": 13,
+    "vein_density": 0.1256
+  },
+  {
+    "image": "Zinc_197",
+    "total_vein_pixels": 19057,
+    "skeleton_length": 1533,
+    "avg_vein_width": 12.43,
+    "num_vein_segments": 11,
+    "vein_density": 0.0727
+  },
+  {
+    "image": "Zinc_198",
+    "total_vein_pixels": 24915,
+    "skeleton_length": 2195,
+    "avg_vein_width": 11.35,
+    "num_vein_segments": 12,
+    "vein_density": 0.095
+  },
+  {
+    "image": "Zinc_199",
+    "total_vein_pixels": 25248,
+    "skeleton_length": 2181,
+    "avg_vein_width": 11.58,
+    "num_vein_segments": 10,
+    "vein_density": 0.0963
+  },
+  {
+    "image": "Zinc_2",
+    "total_vein_pixels": 35408,
+    "skeleton_length": 2897,
+    "avg_vein_width": 12.22,
+    "num_vein_segments": 7,
+    "vein_density": 0.1351
+  },
+  {
+    "image": "Zinc_20",
+    "total_vein_pixels": 36281,
+    "skeleton_length": 3113,
+    "avg_vein_width": 11.65,
+    "num_vein_segments": 6,
+    "vein_density": 0.1384
+  },
+  {
+    "image": "Zinc_200",
+    "total_vein_pixels": 26121,
+    "skeleton_length": 2363,
+    "avg_vein_width": 11.05,
+    "num_vein_segments": 16,
+    "vein_density": 0.0996
+  },
+  {
+    "image": "Zinc_201",
+    "total_vein_pixels": 24398,
+    "skeleton_length": 2172,
+    "avg_vein_width": 11.23,
+    "num_vein_segments": 11,
+    "vein_density": 0.0931
+  },
+  {
+    "image": "Zinc_203",
+    "total_vein_pixels": 20139,
+    "skeleton_length": 1785,
+    "avg_vein_width": 11.28,
+    "num_vein_segments": 24,
+    "vein_density": 0.0768
+  },
+  {
+    "image": "Zinc_205",
+    "total_vein_pixels": 30048,
+    "skeleton_length": 2723,
+    "avg_vein_width": 11.03,
+    "num_vein_segments": 13,
+    "vein_density": 0.1146
+  },
+  {
+    "image": "Zinc_206",
+    "total_vein_pixels": 28775,
+    "skeleton_length": 2569,
+    "avg_vein_width": 11.2,
+    "num_vein_segments": 13,
+    "vein_density": 0.1098
+  },
+  {
+    "image": "Zinc_207",
+    "total_vein_pixels": 27534,
+    "skeleton_length": 2429,
+    "avg_vein_width": 11.34,
+    "num_vein_segments": 19,
+    "vein_density": 0.105
+  },
+  {
+    "image": "Zinc_208",
+    "total_vein_pixels": 26343,
+    "skeleton_length": 2407,
+    "avg_vein_width": 10.94,
+    "num_vein_segments": 14,
+    "vein_density": 0.1005
+  },
+  {
+    "image": "Zinc_209",
+    "total_vein_pixels": 26789,
+    "skeleton_length": 2347,
+    "avg_vein_width": 11.41,
+    "num_vein_segments": 8,
+    "vein_density": 0.1022
+  },
+  {
+    "image": "Zinc_21",
+    "total_vein_pixels": 32390,
+    "skeleton_length": 2676,
+    "avg_vein_width": 12.1,
+    "num_vein_segments": 14,
+    "vein_density": 0.1236
+  },
+  {
+    "image": "Zinc_210",
+    "total_vein_pixels": 23763,
+    "skeleton_length": 2078,
+    "avg_vein_width": 11.44,
+    "num_vein_segments": 19,
+    "vein_density": 0.0906
+  },
+  {
+    "image": "Zinc_211",
+    "total_vein_pixels": 24108,
+    "skeleton_length": 2049,
+    "avg_vein_width": 11.77,
+    "num_vein_segments": 14,
+    "vein_density": 0.092
+  },
+  {
+    "image": "Zinc_212",
+    "total_vein_pixels": 31990,
+    "skeleton_length": 2797,
+    "avg_vein_width": 11.44,
+    "num_vein_segments": 6,
+    "vein_density": 0.122
+  },
+  {
+    "image": "Zinc_213",
+    "total_vein_pixels": 33568,
+    "skeleton_length": 2977,
+    "avg_vein_width": 11.28,
+    "num_vein_segments": 7,
+    "vein_density": 0.1281
+  },
+  {
+    "image": "Zinc_22",
+    "total_vein_pixels": 36850,
+    "skeleton_length": 3180,
+    "avg_vein_width": 11.59,
+    "num_vein_segments": 9,
+    "vein_density": 0.1406
+  },
+  {
+    "image": "Zinc_23",
+    "total_vein_pixels": 39608,
+    "skeleton_length": 3309,
+    "avg_vein_width": 11.97,
+    "num_vein_segments": 9,
+    "vein_density": 0.1511
+  },
+  {
+    "image": "Zinc_24",
+    "total_vein_pixels": 38443,
+    "skeleton_length": 3378,
+    "avg_vein_width": 11.38,
+    "num_vein_segments": 6,
+    "vein_density": 0.1466
+  },
+  {
+    "image": "Zinc_25",
+    "total_vein_pixels": 32817,
+    "skeleton_length": 2523,
+    "avg_vein_width": 13.01,
+    "num_vein_segments": 5,
+    "vein_density": 0.1252
+  },
+  {
+    "image": "Zinc_26",
+    "total_vein_pixels": 36936,
+    "skeleton_length": 3121,
+    "avg_vein_width": 11.83,
+    "num_vein_segments": 4,
+    "vein_density": 0.1409
+  },
+  {
+    "image": "Zinc_28",
+    "total_vein_pixels": 34517,
+    "skeleton_length": 2657,
+    "avg_vein_width": 12.99,
+    "num_vein_segments": 9,
+    "vein_density": 0.1317
+  },
+  {
+    "image": "Zinc_29",
+    "total_vein_pixels": 41144,
+    "skeleton_length": 3527,
+    "avg_vein_width": 11.67,
+    "num_vein_segments": 8,
+    "vein_density": 0.157
+  },
+  {
+    "image": "Zinc_3",
+    "total_vein_pixels": 37088,
+    "skeleton_length": 2896,
+    "avg_vein_width": 12.81,
+    "num_vein_segments": 9,
+    "vein_density": 0.1415
+  },
+  {
+    "image": "Zinc_30",
+    "total_vein_pixels": 33285,
+    "skeleton_length": 2592,
+    "avg_vein_width": 12.84,
+    "num_vein_segments": 10,
+    "vein_density": 0.127
+  },
+  {
+    "image": "Zinc_31",
+    "total_vein_pixels": 33985,
+    "skeleton_length": 2684,
+    "avg_vein_width": 12.66,
+    "num_vein_segments": 5,
+    "vein_density": 0.1296
+  },
+  {
+    "image": "Zinc_32",
+    "total_vein_pixels": 36186,
+    "skeleton_length": 3044,
+    "avg_vein_width": 11.89,
+    "num_vein_segments": 3,
+    "vein_density": 0.138
+  },
+  {
+    "image": "Zinc_33",
+    "total_vein_pixels": 35133,
+    "skeleton_length": 2996,
+    "avg_vein_width": 11.73,
+    "num_vein_segments": 13,
+    "vein_density": 0.134
+  },
+  {
+    "image": "Zinc_34",
+    "total_vein_pixels": 37910,
+    "skeleton_length": 3167,
+    "avg_vein_width": 11.97,
+    "num_vein_segments": 4,
+    "vein_density": 0.1446
+  },
+  {
+    "image": "Zinc_35",
+    "total_vein_pixels": 36376,
+    "skeleton_length": 3034,
+    "avg_vein_width": 11.99,
+    "num_vein_segments": 6,
+    "vein_density": 0.1388
+  },
+  {
+    "image": "Zinc_36",
+    "total_vein_pixels": 32298,
+    "skeleton_length": 2690,
+    "avg_vein_width": 12.01,
+    "num_vein_segments": 6,
+    "vein_density": 0.1232
+  },
+  {
+    "image": "Zinc_37",
+    "total_vein_pixels": 35732,
+    "skeleton_length": 2931,
+    "avg_vein_width": 12.19,
+    "num_vein_segments": 6,
+    "vein_density": 0.1363
+  },
+  {
+    "image": "Zinc_38",
+    "total_vein_pixels": 36193,
+    "skeleton_length": 2893,
+    "avg_vein_width": 12.51,
+    "num_vein_segments": 3,
+    "vein_density": 0.1381
+  },
+  {
+    "image": "Zinc_39",
+    "total_vein_pixels": 35829,
+    "skeleton_length": 3052,
+    "avg_vein_width": 11.74,
+    "num_vein_segments": 2,
+    "vein_density": 0.1367
+  },
+  {
+    "image": "Zinc_4",
+    "total_vein_pixels": 40282,
+    "skeleton_length": 3449,
+    "avg_vein_width": 11.68,
+    "num_vein_segments": 14,
+    "vein_density": 0.1537
+  },
+  {
+    "image": "Zinc_40",
+    "total_vein_pixels": 36305,
+    "skeleton_length": 3101,
+    "avg_vein_width": 11.71,
+    "num_vein_segments": 4,
+    "vein_density": 0.1385
+  },
+  {
+    "image": "Zinc_41",
+    "total_vein_pixels": 40582,
+    "skeleton_length": 3321,
+    "avg_vein_width": 12.22,
+    "num_vein_segments": 8,
+    "vein_density": 0.1548
+  },
+  {
+    "image": "Zinc_42",
+    "total_vein_pixels": 39594,
+    "skeleton_length": 3311,
+    "avg_vein_width": 11.96,
+    "num_vein_segments": 8,
+    "vein_density": 0.151
+  },
+  {
+    "image": "Zinc_43",
+    "total_vein_pixels": 35715,
+    "skeleton_length": 2918,
+    "avg_vein_width": 12.24,
+    "num_vein_segments": 8,
+    "vein_density": 0.1362
+  },
+  {
+    "image": "Zinc_44",
+    "total_vein_pixels": 32016,
+    "skeleton_length": 2561,
+    "avg_vein_width": 12.5,
+    "num_vein_segments": 6,
+    "vein_density": 0.1221
+  },
+  {
+    "image": "Zinc_45",
+    "total_vein_pixels": 39218,
+    "skeleton_length": 3362,
+    "avg_vein_width": 11.67,
+    "num_vein_segments": 3,
+    "vein_density": 0.1496
+  },
+  {
+    "image": "Zinc_46",
+    "total_vein_pixels": 37229,
+    "skeleton_length": 2948,
+    "avg_vein_width": 12.63,
+    "num_vein_segments": 7,
+    "vein_density": 0.142
+  },
+  {
+    "image": "Zinc_47",
+    "total_vein_pixels": 40033,
+    "skeleton_length": 3142,
+    "avg_vein_width": 12.74,
+    "num_vein_segments": 5,
+    "vein_density": 0.1527
+  },
+  {
+    "image": "Zinc_48",
+    "total_vein_pixels": 34433,
+    "skeleton_length": 2660,
+    "avg_vein_width": 12.94,
+    "num_vein_segments": 11,
+    "vein_density": 0.1314
+  },
+  {
+    "image": "Zinc_49",
+    "total_vein_pixels": 33500,
+    "skeleton_length": 2756,
+    "avg_vein_width": 12.16,
+    "num_vein_segments": 11,
+    "vein_density": 0.1278
+  },
+  {
+    "image": "Zinc_5",
+    "total_vein_pixels": 29313,
+    "skeleton_length": 2338,
+    "avg_vein_width": 12.54,
+    "num_vein_segments": 11,
+    "vein_density": 0.1118
+  },
+  {
+    "image": "Zinc_50",
+    "total_vein_pixels": 34956,
+    "skeleton_length": 2826,
+    "avg_vein_width": 12.37,
+    "num_vein_segments": 6,
+    "vein_density": 0.1333
+  },
+  {
+    "image": "Zinc_51",
+    "total_vein_pixels": 39181,
+    "skeleton_length": 3162,
+    "avg_vein_width": 12.39,
+    "num_vein_segments": 3,
+    "vein_density": 0.1495
+  },
+  {
+    "image": "Zinc_52",
+    "total_vein_pixels": 36965,
+    "skeleton_length": 2992,
+    "avg_vein_width": 12.35,
+    "num_vein_segments": 6,
+    "vein_density": 0.141
+  },
+  {
+    "image": "Zinc_53",
+    "total_vein_pixels": 39351,
+    "skeleton_length": 3233,
+    "avg_vein_width": 12.17,
+    "num_vein_segments": 4,
+    "vein_density": 0.1501
+  },
+  {
+    "image": "Zinc_55",
+    "total_vein_pixels": 39086,
+    "skeleton_length": 3203,
+    "avg_vein_width": 12.2,
+    "num_vein_segments": 2,
+    "vein_density": 0.1491
+  },
+  {
+    "image": "Zinc_56",
+    "total_vein_pixels": 37811,
+    "skeleton_length": 2991,
+    "avg_vein_width": 12.64,
+    "num_vein_segments": 7,
+    "vein_density": 0.1442
+  },
+  {
+    "image": "Zinc_57",
+    "total_vein_pixels": 40015,
+    "skeleton_length": 3441,
+    "avg_vein_width": 11.63,
+    "num_vein_segments": 7,
+    "vein_density": 0.1526
+  },
+  {
+    "image": "Zinc_58",
+    "total_vein_pixels": 42066,
+    "skeleton_length": 3245,
+    "avg_vein_width": 12.96,
+    "num_vein_segments": 5,
+    "vein_density": 0.1605
+  },
+  {
+    "image": "Zinc_59",
+    "total_vein_pixels": 34447,
+    "skeleton_length": 3122,
+    "avg_vein_width": 11.03,
+    "num_vein_segments": 8,
+    "vein_density": 0.1314
+  },
+  {
+    "image": "Zinc_6",
+    "total_vein_pixels": 33357,
+    "skeleton_length": 2607,
+    "avg_vein_width": 12.8,
+    "num_vein_segments": 7,
+    "vein_density": 0.1272
+  },
+  {
+    "image": "Zinc_60",
+    "total_vein_pixels": 36149,
+    "skeleton_length": 3201,
+    "avg_vein_width": 11.29,
+    "num_vein_segments": 4,
+    "vein_density": 0.1379
+  },
+  {
+    "image": "Zinc_62",
+    "total_vein_pixels": 38846,
+    "skeleton_length": 3476,
+    "avg_vein_width": 11.18,
+    "num_vein_segments": 2,
+    "vein_density": 0.1482
+  },
+  {
+    "image": "Zinc_63",
+    "total_vein_pixels": 34867,
+    "skeleton_length": 2931,
+    "avg_vein_width": 11.9,
+    "num_vein_segments": 4,
+    "vein_density": 0.133
+  },
+  {
+    "image": "Zinc_66",
+    "total_vein_pixels": 32309,
+    "skeleton_length": 2754,
+    "avg_vein_width": 11.73,
+    "num_vein_segments": 7,
+    "vein_density": 0.1232
+  },
+  {
+    "image": "Zinc_67",
+    "total_vein_pixels": 31492,
+    "skeleton_length": 2709,
+    "avg_vein_width": 11.62,
+    "num_vein_segments": 4,
+    "vein_density": 0.1201
+  },
+  {
+    "image": "Zinc_68",
+    "total_vein_pixels": 33924,
+    "skeleton_length": 2855,
+    "avg_vein_width": 11.88,
+    "num_vein_segments": 9,
+    "vein_density": 0.1294
+  },
+  {
+    "image": "Zinc_69",
+    "total_vein_pixels": 33439,
+    "skeleton_length": 2983,
+    "avg_vein_width": 11.21,
+    "num_vein_segments": 2,
+    "vein_density": 0.1276
+  },
+  {
+    "image": "Zinc_7",
+    "total_vein_pixels": 34707,
+    "skeleton_length": 2758,
+    "avg_vein_width": 12.58,
+    "num_vein_segments": 11,
+    "vein_density": 0.1324
+  },
+  {
+    "image": "Zinc_70",
+    "total_vein_pixels": 35080,
+    "skeleton_length": 3061,
+    "avg_vein_width": 11.46,
+    "num_vein_segments": 6,
+    "vein_density": 0.1338
+  },
+  {
+    "image": "Zinc_71",
+    "total_vein_pixels": 35625,
+    "skeleton_length": 3309,
+    "avg_vein_width": 10.77,
+    "num_vein_segments": 7,
+    "vein_density": 0.1359
+  },
+  {
+    "image": "Zinc_72",
+    "total_vein_pixels": 34951,
+    "skeleton_length": 2982,
+    "avg_vein_width": 11.72,
+    "num_vein_segments": 8,
+    "vein_density": 0.1333
+  },
+  {
+    "image": "Zinc_74",
+    "total_vein_pixels": 38479,
+    "skeleton_length": 3400,
+    "avg_vein_width": 11.32,
+    "num_vein_segments": 4,
+    "vein_density": 0.1468
+  },
+  {
+    "image": "Zinc_75",
+    "total_vein_pixels": 38010,
+    "skeleton_length": 3225,
+    "avg_vein_width": 11.79,
+    "num_vein_segments": 3,
+    "vein_density": 0.145
+  },
+  {
+    "image": "Zinc_76",
+    "total_vein_pixels": 32277,
+    "skeleton_length": 2653,
+    "avg_vein_width": 12.17,
+    "num_vein_segments": 9,
+    "vein_density": 0.1231
+  },
+  {
+    "image": "Zinc_77",
+    "total_vein_pixels": 33447,
+    "skeleton_length": 2877,
+    "avg_vein_width": 11.63,
+    "num_vein_segments": 4,
+    "vein_density": 0.1276
+  },
+  {
+    "image": "Zinc_78",
+    "total_vein_pixels": 34950,
+    "skeleton_length": 3087,
+    "avg_vein_width": 11.32,
+    "num_vein_segments": 3,
+    "vein_density": 0.1333
+  },
+  {
+    "image": "Zinc_79",
+    "total_vein_pixels": 37643,
+    "skeleton_length": 3146,
+    "avg_vein_width": 11.97,
+    "num_vein_segments": 6,
+    "vein_density": 0.1436
+  },
+  {
+    "image": "Zinc_8",
+    "total_vein_pixels": 35128,
+    "skeleton_length": 2870,
+    "avg_vein_width": 12.24,
+    "num_vein_segments": 7,
+    "vein_density": 0.134
+  },
+  {
+    "image": "Zinc_80",
+    "total_vein_pixels": 31946,
+    "skeleton_length": 2681,
+    "avg_vein_width": 11.92,
+    "num_vein_segments": 5,
+    "vein_density": 0.1219
+  },
+  {
+    "image": "Zinc_81",
+    "total_vein_pixels": 36989,
+    "skeleton_length": 3403,
+    "avg_vein_width": 10.87,
+    "num_vein_segments": 3,
+    "vein_density": 0.1411
+  },
+  {
+    "image": "Zinc_82",
+    "total_vein_pixels": 30749,
+    "skeleton_length": 2594,
+    "avg_vein_width": 11.85,
+    "num_vein_segments": 7,
+    "vein_density": 0.1173
+  },
+  {
+    "image": "Zinc_83",
+    "total_vein_pixels": 33527,
+    "skeleton_length": 2953,
+    "avg_vein_width": 11.35,
+    "num_vein_segments": 9,
+    "vein_density": 0.1279
+  },
+  {
+    "image": "Zinc_86",
+    "total_vein_pixels": 39598,
+    "skeleton_length": 3525,
+    "avg_vein_width": 11.23,
+    "num_vein_segments": 7,
+    "vein_density": 0.1511
+  },
+  {
+    "image": "Zinc_87",
+    "total_vein_pixels": 36955,
+    "skeleton_length": 3270,
+    "avg_vein_width": 11.3,
+    "num_vein_segments": 6,
+    "vein_density": 0.141
+  },
+  {
+    "image": "Zinc_88",
+    "total_vein_pixels": 36932,
+    "skeleton_length": 3184,
+    "avg_vein_width": 11.6,
+    "num_vein_segments": 3,
+    "vein_density": 0.1409
+  },
+  {
+    "image": "Zinc_89",
+    "total_vein_pixels": 37623,
+    "skeleton_length": 3076,
+    "avg_vein_width": 12.23,
+    "num_vein_segments": 3,
+    "vein_density": 0.1435
+  },
+  {
+    "image": "Zinc_9",
+    "total_vein_pixels": 29341,
+    "skeleton_length": 2445,
+    "avg_vein_width": 12.0,
+    "num_vein_segments": 13,
+    "vein_density": 0.1119
+  },
+  {
+    "image": "Zinc_90",
+    "total_vein_pixels": 36149,
+    "skeleton_length": 3073,
+    "avg_vein_width": 11.76,
+    "num_vein_segments": 3,
+    "vein_density": 0.1379
+  },
+  {
+    "image": "Zinc_91",
+    "total_vein_pixels": 32709,
+    "skeleton_length": 2745,
+    "avg_vein_width": 11.92,
+    "num_vein_segments": 6,
+    "vein_density": 0.1248
+  },
+  {
+    "image": "Zinc_92",
+    "total_vein_pixels": 36345,
+    "skeleton_length": 3197,
+    "avg_vein_width": 11.37,
+    "num_vein_segments": 6,
+    "vein_density": 0.1386
+  },
+  {
+    "image": "Zinc_96",
+    "total_vein_pixels": 35650,
+    "skeleton_length": 3024,
+    "avg_vein_width": 11.79,
+    "num_vein_segments": 7,
+    "vein_density": 0.136
+  },
+  {
+    "image": "Zinc_97",
+    "total_vein_pixels": 36864,
+    "skeleton_length": 3263,
+    "avg_vein_width": 11.3,
+    "num_vein_segments": 4,
+    "vein_density": 0.1406
+  },
+  {
+    "image": "Zinc_98",
+    "total_vein_pixels": 30836,
+    "skeleton_length": 2464,
+    "avg_vein_width": 12.51,
+    "num_vein_segments": 3,
+    "vein_density": 0.1176
+  },
+  {
+    "image": "Zinc_99",
+    "total_vein_pixels": 35818,
+    "skeleton_length": 3280,
+    "avg_vein_width": 10.92,
+    "num_vein_segments": 5,
+    "vein_density": 0.1366
+  }
+]
